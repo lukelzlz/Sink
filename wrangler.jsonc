@@ -27,4 +27,7 @@
       "id": "b77f989bd0184761b3013da38defec57" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
+  "analytics_engine_datasets": [
+    { "binding": "sink", "dataset": "sink" }
+  ]
 }
